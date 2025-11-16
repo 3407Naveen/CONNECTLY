@@ -1,4 +1,5 @@
 # CONNECTLY
+The CONNECTLY project was developed as part of HackHatch: The Startup Hackathon, organized by the E-Cell at Indraprastha Institute of Information Technology (IIIT) Delhi. This event took place in mid to late November 2025, with the final 24-hour on-campus sprint scheduled around November 22. The hackathon brought together selected teams to build, innovate, and pitch their startup ideas within a high-energy, entrepreneurship-driven environment. As a fully functional SaaS platform for discovering and booking micro-experiences, CONNECTLY was ideated, developed, and presented during this intense, time-bound event, demonstrating technical skill and innovative thinking under the guidance of IIIT Delhi’s entrepreneurial leadership.
 
 > From vacations to moments
 
